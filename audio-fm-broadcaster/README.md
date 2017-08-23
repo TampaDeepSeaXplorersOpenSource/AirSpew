@@ -7,9 +7,11 @@ play a sound file over the speakers and then broadcast the message over FM band(
 ## Setting up GPIO
 
 * Exports pin to userspace
+
 ```echo "21" > /sys/class/gpio/export```                  
 
 * Sets pin 21 as an input
-```echo "in" > /sys/class/gpio/gpio18/direction```
+
+```echo "in" > /sys/class/gpio/gpio21/direction```
 
 
