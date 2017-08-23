@@ -21,4 +21,4 @@ handling up to 1Ghz transmission over GPIO!  So we wired up an antenna on GPIO4
 set up [PiFM](https://github.com/rm-hull/pifm) and after some iterating we got
 it to broadcast our message on FM 103.3!
 
-[Watch a demo of the broadcaster](media/rpi-radio-demo-hi.mp4)
+[Watch a demo of the broadcaster](https://youtu.be/GbVHy8sOnxs)
